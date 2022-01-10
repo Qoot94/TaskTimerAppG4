@@ -22,7 +22,7 @@ our time tracking app will help you be productive and relaxed at the same time!!
 
 #1.0 How to use
 
-![8 copy 2](https://user-images.githubusercontent.com/47189396/148731601-eb1e5ccf-86f7-4481-90da-a874268e40d1.png)
+![8 copy 2](https://user-images.githubusercontent.com/47189396/148731726-b5aa892d-66f5-41f8-a8eb-8b70b9e751fe.png)
 
 
 
