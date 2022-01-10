@@ -7,12 +7,13 @@ https://user-images.githubusercontent.com/47189396/148730665-36f65f8d-996e-4658-
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
-#App logo
+#App logo 
+
 ![logo1TT](https://user-images.githubusercontent.com/47189396/148731340-59d1e3e9-7963-4d26-b84d-1c5e4dbcde0f.png)
 
 #Intro
 
-![Add a heading](https://user-images.githubusercontent.com/47189396/148728702-92f8e66a-db69-45e9-ba92-ff1e8d52de07.gif)
+![Add a heading](https://user-images.githubusercontent.com/47189396/148731436-94c12fd0-1753-46a4-857f-d1b75d33e58c.gif)
 
 Are you overworked?
 our time tracking app will help you be productive and relaxed at the same time!!
@@ -22,7 +23,6 @@ our time tracking app will help you be productive and relaxed at the same time!!
 
 #1.0 How to use
 
-![8 copy 2](https://user-images.githubusercontent.com/47189396/148730416-cedab4b2-b7f3-4b9e-a584-16a16e197191.png)
 
 
 #1.2 App components
