@@ -1,9 +1,12 @@
 # TaskTimerAppG4!
 #App Demo
 
-![6B29B5DF-B5B3-4C83-A1DF-3099EB81000A_1_102_o](https://user-images.githubusercontent.com/47189396/148730371-f9dbfe8a-fcdd-44ef-b37f-8400aec58800.jpeg)
+https://user-images.githubusercontent.com/47189396/148730665-36f65f8d-996e-4658-a2a8-c4671c45a691.mov
+
+
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
+
 #App logo
 ![logo1TT](https://user-images.githubusercontent.com/47189396/148729272-ff9cc1f7-7387-4e40-a5d6-097c6be78685.png)
 
@@ -27,8 +30,9 @@ our time tracking app will help you be productive and relaxed at the same time!!
 
 
 Congratulations , you are now ready to use TaskTamer(name is WIP) to improve your lifestyle
-https://user-images.githubusercontent.com/47189396/148728972-d9b84b9f-ccbe-4e27-bf50-1190fea5154e.mp4
+![endInst](https://user-images.githubusercontent.com/47189396/148730860-eb65112a-564a-400d-8e27-f5f87d3fed72.gif)
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
+
 work by:
 @Room 4 from cohort3 😎🤍
