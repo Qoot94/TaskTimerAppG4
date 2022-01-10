@@ -8,7 +8,7 @@ https://user-images.githubusercontent.com/47189396/148730665-36f65f8d-996e-4658-
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
 #App logo
-![logo1TT](https://user-images.githubusercontent.com/47189396/148729272-ff9cc1f7-7387-4e40-a5d6-097c6be78685.png)
+![logo1TT](https://user-images.githubusercontent.com/47189396/148731340-59d1e3e9-7963-4d26-b84d-1c5e4dbcde0f.png)
 
 #Intro
 
