@@ -13,7 +13,6 @@ https://user-images.githubusercontent.com/47189396/148730665-36f65f8d-996e-4658-
 
 #Intro
 
-![Add a heading](https://user-images.githubusercontent.com/47189396/148731436-94c12fd0-1753-46a4-857f-d1b75d33e58c.gif)
 
 Are you overworked?
 our time tracking app will help you be productive and relaxed at the same time!!
@@ -23,15 +22,17 @@ our time tracking app will help you be productive and relaxed at the same time!!
 
 #1.0 How to use
 
+![8 copy 2](https://user-images.githubusercontent.com/47189396/148731601-eb1e5ccf-86f7-4481-90da-a874268e40d1.png)
+
 
 
 #1.2 App components
 
-![9 copy 2](https://user-images.githubusercontent.com/47189396/148730430-03bf26fc-8317-4b40-b550-382c2b3cce32.png)
+![9 copy 2](https://user-images.githubusercontent.com/47189396/148731638-51a30761-99c5-4a44-b736-f9f16822936e.png)
+
 
 
 Congratulations , you are now ready to use TaskTamer(name is WIP) to improve your lifestyle
-![endInst](https://user-images.githubusercontent.com/47189396/148730860-eb65112a-564a-400d-8e27-f5f87d3fed72.gif)
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
